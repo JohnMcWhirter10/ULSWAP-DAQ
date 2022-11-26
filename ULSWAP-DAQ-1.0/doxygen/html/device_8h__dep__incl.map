@@ -1,0 +1,21 @@
+<map id="firmware/src/config/default/device.h" name="firmware/src/config/default/device.h">
+<area shape="rect" id="node1" title=" " coords="643,5,774,45"/>
+<area shape="rect" id="node2" href="$exceptions_8c.html" title=" " coords="5,335,148,375"/>
+<area shape="rect" id="node3" href="$initialization_8c.html" title=" " coords="750,335,897,375"/>
+<area shape="rect" id="node4" href="$plib__clk_8c.html" title=" " coords="1105,101,1235,155"/>
+<area shape="rect" id="node5" href="$plib__evic_8c.html" title=" " coords="539,218,670,273"/>
+<area shape="rect" id="node6" href="$plib__evic_8h.html" title=" " coords="387,101,518,155"/>
+<area shape="rect" id="node11" href="$pga_configure_8c.html" title=" " coords="948,343,1131,368"/>
+<area shape="rect" id="node12" href="$plib__gpio_8h.html" title=" " coords="73,101,203,155"/>
+<area shape="rect" id="node14" href="$plib__spi1__master_8h.html" title=" " coords="228,93,363,163"/>
+<area shape="rect" id="node16" href="$plib__tmr2_8c.html" title=" " coords="694,218,825,273"/>
+<area shape="rect" id="node17" href="$plib__tmr2_8h.html" title=" " coords="593,101,723,155"/>
+<area shape="rect" id="node18" href="$plib__uart1_8c.html" title=" " coords="849,218,979,273"/>
+<area shape="rect" id="node19" href="$plib__uart1_8h.html" title=" " coords="798,101,929,155"/>
+<area shape="rect" id="node7" href="$definitions_8h.html" title=" " coords="377,225,515,265"/>
+<area shape="rect" id="node8" href="$interrupts_8c.html" title=" " coords="223,335,357,375"/>
+<area shape="rect" id="node9" href="$xc32__monitor_8c.html" title=" " coords="381,328,511,383"/>
+<area shape="rect" id="node10" href="$main_8c.html" title="main file for Data Acquisition Unit" coords="536,343,671,368"/>
+<area shape="rect" id="node13" href="$plib__gpio_8c.html" title=" " coords="63,218,194,273"/>
+<area shape="rect" id="node15" href="$plib__spi1__master_8c.html" title=" " coords="219,211,353,280"/>
+</map>

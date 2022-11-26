@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['timer_5f2_5finterrupthandler_0',['TIMER_2_InterruptHandler',['../interrupts_8c.html#afe1e52ed072c5f8631e53b126a690c5b',1,'TIMER_2_InterruptHandler(void):&#160;plib_tmr2.c'],['../plib__tmr2_8c.html#afe1e52ed072c5f8631e53b126a690c5b',1,'TIMER_2_InterruptHandler(void):&#160;plib_tmr2.c']]],
+  ['tmr2_5fcallbackregister_1',['TMR2_CallbackRegister',['../plib__tmr2_8c.html#af9fb53f57399193aa018bf12c9f9d4d5',1,'TMR2_CallbackRegister(TMR_CALLBACK callback_fn, uintptr_t context):&#160;plib_tmr2.c'],['../plib__tmr2_8h.html#af9fb53f57399193aa018bf12c9f9d4d5',1,'TMR2_CallbackRegister(TMR_CALLBACK callback_fn, uintptr_t context):&#160;plib_tmr2.c']]],
+  ['tmr2_5fcounterget_2',['TMR2_CounterGet',['../plib__tmr2_8h.html#aa1feeac31ea42c9d32100003eb3d7ee7',1,'TMR2_CounterGet(void):&#160;plib_tmr2.c'],['../plib__tmr2_8c.html#aa1feeac31ea42c9d32100003eb3d7ee7',1,'TMR2_CounterGet(void):&#160;plib_tmr2.c']]],
+  ['tmr2_5ffrequencyget_3',['TMR2_FrequencyGet',['../plib__tmr2_8h.html#a8d3756a9c327b90418eea74ec6bff646',1,'TMR2_FrequencyGet(void):&#160;plib_tmr2.c'],['../plib__tmr2_8c.html#a8d3756a9c327b90418eea74ec6bff646',1,'TMR2_FrequencyGet(void):&#160;plib_tmr2.c']]],
+  ['tmr2_5finitialize_4',['TMR2_Initialize',['../plib__tmr2_8h.html#a46c13c9255379e99c10240229a145d37',1,'TMR2_Initialize(void):&#160;plib_tmr2.c'],['../plib__tmr2_8c.html#a46c13c9255379e99c10240229a145d37',1,'TMR2_Initialize(void):&#160;plib_tmr2.c']]],
+  ['tmr2_5finterruptdisable_5',['TMR2_InterruptDisable',['../plib__tmr2_8h.html#aaabcf6cdabb877597617e5ae002fa31c',1,'TMR2_InterruptDisable(void):&#160;plib_tmr2.c'],['../plib__tmr2_8c.html#aaabcf6cdabb877597617e5ae002fa31c',1,'TMR2_InterruptDisable(void):&#160;plib_tmr2.c']]],
+  ['tmr2_5finterruptenable_6',['TMR2_InterruptEnable',['../plib__tmr2_8h.html#a6e0de37106230371c85565fe93fba239',1,'TMR2_InterruptEnable(void):&#160;plib_tmr2.c'],['../plib__tmr2_8c.html#a6e0de37106230371c85565fe93fba239',1,'TMR2_InterruptEnable(void):&#160;plib_tmr2.c']]],
+  ['tmr2_5fperiodget_7',['TMR2_PeriodGet',['../plib__tmr2_8h.html#afa5a3419806fb1be6006acc4acbaf97b',1,'TMR2_PeriodGet(void):&#160;plib_tmr2.c'],['../plib__tmr2_8c.html#afa5a3419806fb1be6006acc4acbaf97b',1,'TMR2_PeriodGet(void):&#160;plib_tmr2.c']]],
+  ['tmr2_5fperiodset_8',['TMR2_PeriodSet',['../plib__tmr2_8c.html#a1a333831411d5412dbccde941762ccac',1,'TMR2_PeriodSet(uint16_t period):&#160;plib_tmr2.c'],['../plib__tmr2_8h.html#a74fe7279004da326e65ac18ac5fac773',1,'TMR2_PeriodSet(uint16_t):&#160;plib_tmr2.c']]],
+  ['tmr2_5fstart_9',['TMR2_Start',['../plib__tmr2_8c.html#a7eccfd0fac278e0099d27631e116cfbf',1,'TMR2_Start(void):&#160;plib_tmr2.c'],['../plib__tmr2_8h.html#a7eccfd0fac278e0099d27631e116cfbf',1,'TMR2_Start(void):&#160;plib_tmr2.c']]],
+  ['tmr2_5fstop_10',['TMR2_Stop',['../plib__tmr2_8c.html#a90159f110263038f478f43a3ac9ab3ee',1,'TMR2_Stop(void):&#160;plib_tmr2.c'],['../plib__tmr2_8h.html#a90159f110263038f478f43a3ac9ab3ee',1,'TMR2_Stop(void):&#160;plib_tmr2.c']]],
+  ['tmr_5fcallback_11',['TMR_CALLBACK',['../plib__tmr__common_8h.html#a3dfc0732b8dab247e647103a34b03727',1,'plib_tmr_common.h']]],
+  ['tmr_5ftimer_5fobject_12',['TMR_TIMER_OBJECT',['../struct_t_m_r___t_i_m_e_r___o_b_j_e_c_t.html',1,'']]],
+  ['toolchain_5fspecifics_2eh_13',['toolchain_specifics.h',['../toolchain__specifics_8h.html',1,'']]],
+  ['transferisbusy_14',['transferIsBusy',['../struct_s_p_i___o_b_j_e_c_t.html#a2dd222063ed85b26f3bee50b653bdea2',1,'SPI_OBJECT']]],
+  ['txbuffer_15',['txBuffer',['../struct_u_a_r_t___o_b_j_e_c_t.html#a9e34d8d39e2adcd636dea42296da5aa7',1,'UART_OBJECT::txBuffer()'],['../struct_s_p_i___o_b_j_e_c_t.html#a10308de7aa4420b45413eb72318d9c6b',1,'SPI_OBJECT::txBuffer()']]],
+  ['txbusystatus_16',['txBusyStatus',['../struct_u_a_r_t___o_b_j_e_c_t.html#a6c37283e9606dc548967b6ee507e717f',1,'UART_OBJECT']]],
+  ['txcallback_17',['txCallback',['../struct_u_a_r_t___o_b_j_e_c_t.html#a2258d040b0836a443e0fa3dd22d12756',1,'UART_OBJECT']]],
+  ['txcontext_18',['txContext',['../struct_u_a_r_t___o_b_j_e_c_t.html#a94b96085a3539f3117e4e8dc9b4279e5',1,'UART_OBJECT']]],
+  ['txcount_19',['txCount',['../struct_s_p_i___o_b_j_e_c_t.html#a8bb89024b184660fbfc966523ea95e82',1,'SPI_OBJECT']]],
+  ['txprocessedsize_20',['txProcessedSize',['../struct_u_a_r_t___o_b_j_e_c_t.html#a39e38d22968a270ddf45437a458b1ba6',1,'UART_OBJECT']]],
+  ['txsize_21',['txSize',['../struct_u_a_r_t___o_b_j_e_c_t.html#a5a1941b6a9c9ad4604f75317b82787fc',1,'UART_OBJECT::txSize()'],['../struct_s_p_i___o_b_j_e_c_t.html#a5a1941b6a9c9ad4604f75317b82787fc',1,'SPI_OBJECT::txSize()']]]
+];

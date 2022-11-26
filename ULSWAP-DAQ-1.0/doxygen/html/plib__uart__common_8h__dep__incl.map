@@ -1,0 +1,12 @@
+<map id="firmware/src/config/default/peripheral/uart/plib_uart_common.h" name="firmware/src/config/default/peripheral/uart/plib_uart_common.h">
+<area shape="rect" id="node1" title=" " coords="481,5,651,60"/>
+<area shape="rect" id="node2" href="$plib__uart1_8h.html" title=" " coords="501,108,631,163"/>
+<area shape="rect" id="node3" href="$definitions_8h.html" title=" " coords="419,218,556,258"/>
+<area shape="rect" id="node10" href="$plib__uart1_8c.html" title=" " coords="581,211,711,265"/>
+<area shape="rect" id="node4" href="$exceptions_8c.html" title=" " coords="5,321,148,361"/>
+<area shape="rect" id="node5" href="$initialization_8c.html" title=" " coords="173,321,319,361"/>
+<area shape="rect" id="node6" href="$interrupts_8c.html" title=" " coords="343,321,477,361"/>
+<area shape="rect" id="node7" href="$xc32__monitor_8c.html" title=" " coords="501,313,631,368"/>
+<area shape="rect" id="node8" href="$main_8c.html" title="main file for Data Acquisition Unit" coords="656,328,791,353"/>
+<area shape="rect" id="node9" href="$pga_configure_8c.html" title=" " coords="815,328,997,353"/>
+</map>

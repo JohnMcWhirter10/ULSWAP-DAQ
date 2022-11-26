@@ -1,0 +1,12 @@
+<map id="firmware/src/config/default/peripheral/spi/spi_master/plib_spi_master_common.h" name="firmware/src/config/default/peripheral/spi/spi_master/plib_spi_master_common.h">
+<area shape="rect" id="node1" title=" " coords="487,5,648,75"/>
+<area shape="rect" id="node2" href="$plib__spi1__master_8h.html" title=" " coords="500,123,635,192"/>
+<area shape="rect" id="node3" href="$definitions_8h.html" title=" " coords="419,255,556,295"/>
+<area shape="rect" id="node10" href="$plib__spi1__master_8c.html" title=" " coords="580,240,715,309"/>
+<area shape="rect" id="node4" href="$exceptions_8c.html" title=" " coords="5,365,148,405"/>
+<area shape="rect" id="node5" href="$initialization_8c.html" title=" " coords="173,365,319,405"/>
+<area shape="rect" id="node6" href="$interrupts_8c.html" title=" " coords="343,365,477,405"/>
+<area shape="rect" id="node7" href="$xc32__monitor_8c.html" title=" " coords="501,357,631,412"/>
+<area shape="rect" id="node8" href="$main_8c.html" title="main file for Data Acquisition Unit" coords="656,372,791,397"/>
+<area shape="rect" id="node9" href="$pga_configure_8c.html" title=" " coords="815,372,997,397"/>
+</map>

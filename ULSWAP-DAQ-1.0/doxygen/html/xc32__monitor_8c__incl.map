@@ -1,0 +1,22 @@
+<map id="firmware/src/config/default/stdio/xc32_monitor.c" name="firmware/src/config/default/stdio/xc32_monitor.c">
+<area shape="rect" id="node1" title=" " coords="939,5,1070,60"/>
+<area shape="rect" id="node2" title=" " coords="911,357,979,383"/>
+<area shape="rect" id="node3" href="$definitions_8h.html" title=" " coords="658,108,749,133"/>
+<area shape="rect" id="node4" title=" " coords="103,357,168,383"/>
+<area shape="rect" id="node5" title=" " coords="258,357,333,383"/>
+<area shape="rect" id="node6" title=" " coords="842,189,903,214"/>
+<area shape="rect" id="node7" href="$plib__uart1_8h.html" title=" " coords="125,181,253,221"/>
+<area shape="rect" id="node14" href="$plib__tmr2_8h.html" title=" " coords="927,181,1053,221"/>
+<area shape="rect" id="node16" href="$plib__clk_8h.html" title=" " coords="834,269,957,309"/>
+<area shape="rect" id="node17" href="$plib__gpio_8h.html" title=" " coords="277,181,407,221"/>
+<area shape="rect" id="node18" href="$plib__evic_8h.html" title=" " coords="639,181,767,221"/>
+<area shape="rect" id="node19" href="$plib__spi1__master_8h.html" title=" " coords="432,181,615,221"/>
+<area shape="rect" id="node8" href="$device_8h.html" title=" " coords="639,277,709,302"/>
+<area shape="rect" id="node13" href="$plib__uart__common_8h.html" title=" " coords="119,277,258,302"/>
+<area shape="rect" id="node9" title=" " coords="769,357,816,383"/>
+<area shape="rect" id="node10" title=" " coords="484,357,579,383"/>
+<area shape="rect" id="node11" href="$toolchain__specifics_8h.html" title=" " coords="603,357,745,383"/>
+<area shape="rect" id="node12" title=" " coords="629,431,719,456"/>
+<area shape="rect" id="node15" href="$plib__tmr__common_8h.html" title=" " coords="1082,277,1218,302"/>
+<area shape="rect" id="node20" href="$plib__spi__master__common_8h.html" title=" " coords="333,277,514,302"/>
+</map>

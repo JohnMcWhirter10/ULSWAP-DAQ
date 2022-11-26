@@ -1,0 +1,11 @@
+<map id="firmware/src/config/default/peripheral/clk/plib_clk.c" name="firmware/src/config/default/peripheral/clk/plib_clk.c">
+<area shape="rect" id="node1" title=" " coords="194,5,325,60"/>
+<area shape="rect" id="node2" href="$device_8h.html" title=" " coords="161,108,230,133"/>
+<area shape="rect" id="node7" href="$plib__clk_8h.html" title=" " coords="357,108,434,133"/>
+<area shape="rect" id="node3" title=" " coords="5,181,52,207"/>
+<area shape="rect" id="node4" title=" " coords="76,181,171,207"/>
+<area shape="rect" id="node5" href="$toolchain__specifics_8h.html" title=" " coords="195,181,337,207"/>
+<area shape="rect" id="node6" title=" " coords="221,255,311,280"/>
+<area shape="rect" id="node8" title=" " coords="361,181,429,207"/>
+<area shape="rect" id="node9" title=" " coords="454,181,529,207"/>
+</map>

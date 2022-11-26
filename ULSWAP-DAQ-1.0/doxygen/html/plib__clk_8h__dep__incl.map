@@ -1,0 +1,11 @@
+<map id="firmware/src/config/default/peripheral/clk/plib_clk.h" name="firmware/src/config/default/peripheral/clk/plib_clk.h">
+<area shape="rect" id="node1" title=" " coords="501,5,631,60"/>
+<area shape="rect" id="node2" href="$definitions_8h.html" title=" " coords="419,115,556,155"/>
+<area shape="rect" id="node9" href="$plib__clk_8c.html" title=" " coords="581,108,711,163"/>
+<area shape="rect" id="node3" href="$exceptions_8c.html" title=" " coords="5,218,148,258"/>
+<area shape="rect" id="node4" href="$initialization_8c.html" title=" " coords="173,218,319,258"/>
+<area shape="rect" id="node5" href="$interrupts_8c.html" title=" " coords="343,218,477,258"/>
+<area shape="rect" id="node6" href="$xc32__monitor_8c.html" title=" " coords="501,211,631,265"/>
+<area shape="rect" id="node7" href="$main_8c.html" title="main file for Data Acquisition Unit" coords="656,225,791,251"/>
+<area shape="rect" id="node8" href="$pga_configure_8c.html" title=" " coords="815,225,997,251"/>
+</map>

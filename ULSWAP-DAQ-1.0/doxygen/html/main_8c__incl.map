@@ -1,0 +1,25 @@
+<map id="firmware/src/main.c" name="firmware/src/main.c">
+<area shape="rect" id="node1" title="main file for Data Acquisition Unit" coords="1234,5,1368,31"/>
+<area shape="rect" id="node2" title=" " coords="362,328,430,353"/>
+<area shape="rect" id="node3" title=" " coords="1064,328,1138,353"/>
+<area shape="rect" id="node4" title=" " coords="1234,79,1298,104"/>
+<area shape="rect" id="node5" href="$definitions_8h.html" title=" " coords="809,79,900,104"/>
+<area shape="rect" id="node22" title=" " coords="1374,79,1439,104"/>
+<area shape="rect" id="node23" href="$pga_configure_8h.html" title=" " coords="1463,79,1571,104"/>
+<area shape="rect" id="node6" title=" " coords="267,328,332,353"/>
+<area shape="rect" id="node7" title=" " coords="1237,159,1298,185"/>
+<area shape="rect" id="node8" href="$plib__uart1_8h.html" title=" " coords="610,152,738,192"/>
+<area shape="rect" id="node15" href="$plib__tmr2_8h.html" title=" " coords="158,152,284,192"/>
+<area shape="rect" id="node17" href="$plib__clk_8h.html" title=" " coords="1074,240,1197,280"/>
+<area shape="rect" id="node18" href="$plib__gpio_8h.html" title=" " coords="456,152,586,192"/>
+<area shape="rect" id="node19" href="$plib__evic_8h.html" title=" " coords="970,152,1098,192"/>
+<area shape="rect" id="node20" href="$plib__spi1__master_8h.html" title=" " coords="763,152,946,192"/>
+<area shape="rect" id="node9" href="$device_8h.html" title=" " coords="829,247,898,273"/>
+<area shape="rect" id="node14" href="$plib__uart__common_8h.html" title=" " coords="410,247,549,273"/>
+<area shape="rect" id="node10" title=" " coords="840,328,887,353"/>
+<area shape="rect" id="node11" title=" " coords="911,328,1006,353"/>
+<area shape="rect" id="node12" href="$toolchain__specifics_8h.html" title=" " coords="674,328,816,353"/>
+<area shape="rect" id="node13" title=" " coords="700,401,790,427"/>
+<area shape="rect" id="node16" href="$plib__tmr__common_8h.html" title=" " coords="48,247,184,273"/>
+<area shape="rect" id="node21" href="$plib__spi__master__common_8h.html" title=" " coords="624,247,805,273"/>
+</map>

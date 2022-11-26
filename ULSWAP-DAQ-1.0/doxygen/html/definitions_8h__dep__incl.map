@@ -1,0 +1,9 @@
+<map id="firmware/src/config/default/definitions.h" name="firmware/src/config/default/definitions.h">
+<area shape="rect" id="node1" title=" " coords="419,5,556,45"/>
+<area shape="rect" id="node2" href="$exceptions_8c.html" title=" " coords="5,101,148,141"/>
+<area shape="rect" id="node3" href="$initialization_8c.html" title=" " coords="173,101,319,141"/>
+<area shape="rect" id="node4" href="$interrupts_8c.html" title=" " coords="343,101,477,141"/>
+<area shape="rect" id="node5" href="$xc32__monitor_8c.html" title=" " coords="501,93,631,148"/>
+<area shape="rect" id="node6" href="$main_8c.html" title="main file for Data Acquisition Unit" coords="656,108,791,133"/>
+<area shape="rect" id="node7" href="$pga_configure_8c.html" title=" " coords="815,108,997,133"/>
+</map>
