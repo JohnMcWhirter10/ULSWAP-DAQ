@@ -83,6 +83,11 @@ uint8_t pga2B_config = 0;
  */
 uint8_t config = 0;
 uint8_t reset_word = 0;
+bool next = false;
+
+void check_TMR2(uint32_t status, uintptr_t context){
+    next = true;
+}
 
 /**
  * main
@@ -93,6 +98,9 @@ int main ( void )
     /* Initialize all modules */
     SYS_Initialize ( NULL );
     
+    /* Initialize TMR2 Callback Register for 10kHz Frequency*/
+    TMR2_CallbackRegister(check_TMR2, (uintptr_t) NULL);
+    
     /* Configure PGAs refer to PGA datasheet for combinations */
     configurePGA1A(pga1A_config, pga1A_shdn);
     configurePGA1B(pga1B_config, pga1B_shdn);
@@ -100,14 +108,33 @@ int main ( void )
     configurePGA2B(pga2B_config, pga2B_shdn);
     
     /* Reset ADC */
+    RESET_Set();
+    RESET_Clear();
     RDL_Set();
     CNV_Set();
+    for(int i = 0; i < 1000; i++);
     CNV_Clear();
     while(BUSY_Get());
     RDL_Clear();
     SPI1_Write(&reset_word, 1);
     while(SPI1_IsBusy());
 
+    /* Program Sequencer */
+
+    for( uint8_t i = 0; i < 15; i++){
+        // configuration word is config left shifted by 3 bits plus
+        //  the input range selection bits (10) and Digital Gain Compression (0)
+        uint8_t config_word = (i << 3) + 4; // 0x0AAAA100 where A is config
+        RDL_Set();
+        CNV_Set();
+        CNV_Clear();
+        while(BUSY_Get());
+        RDL_Clear();
+        SPI1_Write(&config_word, 1);
+        while(SPI1_IsBusy());
+    }
+    
+    /* Read From ADC*/
     while ( true )
     {
         /**
@@ -128,14 +155,14 @@ int main ( void )
         }
         // configuration word is config left shifted by 3 bits plus
         //  the input range selection bits (10) and Digital Gain Compression (0)
-        uint8_t config_word = (config << 3) + 4; // 0x0AAAA100 where A is config
-        RDL_Set();
-        CNV_Set();
-        CNV_Clear();
-        while(BUSY_Get());
-        RDL_Clear();
-        SPI1_Write(&config_word, 1);
-        while(SPI1_IsBusy());
+        //uint8_t config_word = (config << 3) + 4; // 0x0AAAA100 where A is config
+        //RDL_Set();
+        //CNV_Set();
+        //CNV_Clear();
+        //while(BUSY_Get());
+        //RDL_Clear();
+        //SPI1_Write(&config_word, 1);
+        //while(SPI1_IsBusy());
         
         char miso_buff[3];
         RDL_Set();
@@ -149,11 +176,6 @@ int main ( void )
         // Split Received Buffer into Data and Configuration word
         uint16_t rxdata = (miso_buff[2] << 8) + miso_buff[1];
         
-//        uint8_t rconfig_word = miso_buff[0];
-//        if(rconfig_word == config_word){
-//            // Success
-//        }
-        
         // Create float percentage of rxdata and multiply it by 
         //  Input Range from Data Sheet [-4.096, 4.096]
         float txdata = (rxdata / 65535.0) * 8.192 - 4.096;
@@ -165,7 +187,8 @@ int main ( void )
         
         // Increment config
         config = config + 1; 
-        
+        while(!next);
+        next = false;
         /* Maintain state machines of all polled MPLAB Harmony modules. */
         SYS_Tasks ( );
     }

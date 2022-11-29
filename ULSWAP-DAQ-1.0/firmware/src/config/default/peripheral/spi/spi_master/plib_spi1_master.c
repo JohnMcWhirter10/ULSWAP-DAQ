@@ -81,7 +81,7 @@ void SPI1_Initialize ( void )
     IFS1CLR = 0x20;
 
     /* BAUD Rate register Setup */
-    SPI1BRG = 239;
+    SPI1BRG = 119;
 
     /* CLear the Overflow */
     SPI1STATCLR = _SPI1STAT_SPIROV_MASK;
@@ -125,7 +125,7 @@ bool SPI1_TransferSetup (SPI_TRANSFER_SETUP* setup, uint32_t spiSourceClock )
     if(spiSourceClock == 0)
     {
         // Use Master Clock Frequency set in GUI
-        spiSourceClock = 48000000;
+        spiSourceClock = 24000000;
     }
 
     t_brg = (((spiSourceClock / (setup->clockFrequency)) / 2u) - 1u);

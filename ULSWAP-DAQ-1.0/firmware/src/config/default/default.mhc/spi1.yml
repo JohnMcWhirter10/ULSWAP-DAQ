@@ -24,7 +24,7 @@ children:
     - type: Values
       children:
       - type: Dynamic
-        attributes: {id: spi1, value: '239'}
+        attributes: {id: spi1, value: '119'}
   - type: KeyValueSet
     attributes: {id: SPI_SPICON_MSSEN}
     children:
