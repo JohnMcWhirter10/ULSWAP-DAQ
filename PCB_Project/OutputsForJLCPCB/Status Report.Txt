@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [Capstone_ADC_Breakout.PcbDoc]
+   Generated File[//tamucs-my.sharepoint.com/personal/jmcwhirter1608_tamu_edu/Documents/Documents/TAMU/FALL2022/ECEN-403/Projects/PCB_Project/Project Outputs for Free Documents/BOM/Bill of Materials-Capstone_ADC_Breakout.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:27:59 PM On 11/8/2022

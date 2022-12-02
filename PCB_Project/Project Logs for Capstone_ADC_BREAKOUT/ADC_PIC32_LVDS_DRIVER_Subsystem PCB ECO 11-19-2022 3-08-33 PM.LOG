@@ -1,0 +1,119 @@
+Added Component: Designator=J1(FP-B5B-PH-K-S_LF_SN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.13inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Stacking Heights"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=MCLR(434121043816)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/434121043816.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "434121043816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "434121043816"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1 x 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm\/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ102X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AVDD_19 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=MCLR-1
+Added Pin To Net: NetName=AVDD_19 Pin=R3-2
+Change Net Name : Old Net Name=AVDD_19 New Net Name=+3.3V
+Added Pin To Net: NetName=MCLR Pin=MCLR-2
+Added Pin To Net: NetName=MCLR Pin=R3-1
+Added Pin To Net: NetName=MCLR Pin=R4-2
+Added Pin To Net: NetName=MCLR Pin=U2-7
+Added Net: Name=MCLR
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R4-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=PGC Pin=J1-3
+Added Pin To Net: NetName=PGC Pin=U2-17
+Added Net: Name=PGC
+Added Pin To Net: NetName=PGD Pin=J1-4
+Added Pin To Net: NetName=PGD Pin=U2-18
+Added Net: Name=PGD
+Added Member To Class: ClassName=ADC_Subsystem Member=Component C3 0.1uF
+Added Member To Class: ClassName=PIC32_Subsystem Member=Component J1 B5B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=PIC32_Subsystem Member=Component MCLR 434121043816
+Added Member To Class: ClassName=PIC32_Subsystem Member=Component R3 10k
+Added Member To Class: ClassName=PIC32_Subsystem Member=Component R4 1k

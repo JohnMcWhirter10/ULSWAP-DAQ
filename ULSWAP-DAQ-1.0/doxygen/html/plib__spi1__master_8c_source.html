@@ -176,7 +176,7 @@ $(document).ready(function(){initNavTree('plib__spi1__master_8c_source.html','')
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>    IFS1CLR = 0x20;</div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span> </div>
 <div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>    <span class="comment">/* BAUD Rate register Setup */</span></div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>    SPI1BRG = 239;</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>    SPI1BRG = 119;</div>
 <div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span> </div>
 <div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>    <span class="comment">/* CLear the Overflow */</span></div>
 <div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>    SPI1STATCLR = _SPI1STAT_SPIROV_MASK;</div>
@@ -220,7 +220,7 @@ $(document).ready(function(){initNavTree('plib__spi1__master_8c_source.html','')
 <div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>    <span class="keywordflow">if</span>(spiSourceClock == 0)</div>
 <div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>    {</div>
 <div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>        <span class="comment">// Use Master Clock Frequency set in GUI</span></div>
-<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>        spiSourceClock = 48000000;</div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>        spiSourceClock = 24000000;</div>
 <div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span>    }</div>
 <div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span> </div>
 <div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>    t_brg = (((spiSourceClock / (setup-&gt;<a class="code hl_variable" href="struct_s_p_i___t_r_a_n_s_f_e_r___s_e_t_u_p.html#a13a57d4f9f72129d847edfebbdc7e71f">clockFrequency</a>)) / 2u) - 1u);</div>

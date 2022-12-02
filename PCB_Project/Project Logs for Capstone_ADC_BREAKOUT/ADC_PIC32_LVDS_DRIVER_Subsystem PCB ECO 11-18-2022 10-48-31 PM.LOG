@@ -1,0 +1,36 @@
+Added Component: Designator=U3(FP-R-8-IPC_A)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "600Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "7mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Receivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "7mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "98"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "1.5ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "7mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "1.5ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AVDD_19 Pin=U3-1
+Added Pin To Net: NetName=UART_TX Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=DOUT_P Pin=U3-7
+Added Pin To Net: NetName=DOUT_N Pin=U3-8
+Added Member To Class: ClassName=ADC_Subsystem Member=Component U1 LTC2373CUH-16#PBF
+Added Member To Class: ClassName=LVDS_Driver_Subsystem Member=Component U3 ADN4661BRZ

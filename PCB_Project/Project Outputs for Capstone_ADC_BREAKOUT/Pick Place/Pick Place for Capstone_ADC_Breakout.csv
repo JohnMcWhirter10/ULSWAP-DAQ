@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\Brea McWhirter\OneDrive - Texas A&M University\Documents\TAMU\FALL2022\ECEN-403\Projects\PCB_Project\Project Outputs for Capstone_ADC_BREAKOUT\Pick Place\Pick Place for Capstone_ADC_Breakout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/11/22
+Time:       12:56
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"U1","18.4560mm","11.6205mm","TopLayer","0"
+"J2","30.3921mm","11.3665mm","TopLayer","90"
+"J1","6.6431mm","11.3028mm","TopLayer","90"
+"C5","26.3281mm","7.6835mm","TopLayer","0"
+"C4","19.2321mm","16.2388mm","TopLayer","270"
+"C3","21.0943mm","17.7673mm","TopLayer","0"
+"C2","20.8861mm","7.1755mm","TopLayer","0"
+"C1","18.6961mm","4.6355mm","TopLayer","0"

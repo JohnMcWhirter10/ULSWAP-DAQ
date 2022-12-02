@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SCK Pin=U2-50
+Removed Pin From Net: NetName=SDO Pin=U2-51
+Removed Pin From Net: NetName=BUSY Pin=U2-52
+Removed Pin From Net: NetName=SDI Pin=U2-53
+Removed Pin From Net: NetName=CNV Pin=U2-54
+Removed Pin From Net: NetName=RESET Pin=U2-55
+Added Pin To Net: NetName=BUSY Pin=U2-2
+Added Pin To Net: NetName=RESET Pin=U2-3
+Added Pin To Net: NetName=SCK Pin=U2-4
+Added Pin To Net: NetName=SDO Pin=U2-5
+Added Pin To Net: NetName=SDI Pin=U2-6
+Added Pin To Net: NetName=CNV Pin=U2-64
+Added Member To Class: ClassName=PIC32_Subsystem Member=Component X1 20MHz
+Added Room: Name=LVDS_Driver_Subsystem

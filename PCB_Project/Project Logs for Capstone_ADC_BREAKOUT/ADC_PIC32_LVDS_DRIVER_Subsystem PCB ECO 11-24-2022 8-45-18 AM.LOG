@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=SCK Pin=U2-4
+Removed Pin From Net: NetName=ADCSDO_PIC32SDI Pin=U2-5
+Removed Pin From Net: NetName=ADCSDI_PIC32SDO Pin=U2-6
+Added Pin To Net: NetName=SCK Pin=U2-50
+Added Pin To Net: NetName=ADCSDO_PIC32SDI Pin=U2-51
+Added Pin To Net: NetName=ADCSDI_PIC32SDO Pin=U2-53
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Added Pin To Net: NetName=NetU2_27 Pin=U2-27
+Added Net: Name=NetU2_27
+Added Pin To Net: NetName=NetU2_28 Pin=U2-28
+Added Net: Name=NetU2_28
+Added Pin To Net: NetName=NetU2_29 Pin=U2-29
+Added Net: Name=NetU2_29
+Added Pin To Net: NetName=NetU2_30 Pin=U2-30
+Added Net: Name=NetU2_30
+Added Member To Class: ClassName=PIC32_Subsystem Member=Component U2 PIC32MX470-F512H-120MR
+Add Class Member: Failed to add class member : Component U4 Fake_PGA
+Add Class Member: Failed to add class member : Component U5 Fake_PGA

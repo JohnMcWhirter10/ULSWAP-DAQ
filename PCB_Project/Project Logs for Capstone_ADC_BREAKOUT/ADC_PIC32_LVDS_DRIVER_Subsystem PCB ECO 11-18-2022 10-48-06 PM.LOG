@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=LVDS_Driver_Subsystem Member=U1
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Added Member To Class: ClassName=LVDS_Driver_Subsystem Member=Component U3 ADN4661BRZ

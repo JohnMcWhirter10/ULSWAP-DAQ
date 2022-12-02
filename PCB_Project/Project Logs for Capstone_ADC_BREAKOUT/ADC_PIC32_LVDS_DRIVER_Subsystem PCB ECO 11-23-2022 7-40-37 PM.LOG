@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=GND Pin=U1-18
+Removed Pin From Net: NetName=SDO Pin=U2-5
+Removed Pin From Net: NetName=SDI Pin=U2-6
+Removed Pin From Net: NetName=UART_TX Pin=U2-59
+Added Component: Designator=J2(TECO-5520470-3_V)
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5520470&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. B1, 03/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "13.34 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "150 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "176"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Female Header, Pitch 1.27 mm, 2 x 3 Position, Height 16.13 mm, Tail Length 4.32 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "5520470-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCLR Pin=J2-1
+Added Pin To Net: NetName=+3.3V Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=PGD Pin=J2-4
+Added Pin To Net: NetName=PGC Pin=J2-5
+Added Pin To Net: NetName=SDI Pin=U2-5
+Added Pin To Net: NetName=SDO Pin=U2-6
+Added Pin To Net: NetName=NetU1_18 Pin=U1-18
+Added Pin To Net: NetName=NetU1_18 Pin=U2-2
+Added Net: Name=NetU1_18
+Added Pin To Net: NetName=NetU2_42 Pin=U2-42
+Added Net: Name=NetU2_42
+Added Pin To Net: NetName=NetU2_43 Pin=U2-43
+Added Net: Name=NetU2_43
+Added Pin To Net: NetName=NetU2_44 Pin=U2-44
+Added Net: Name=NetU2_44
+Added Pin To Net: NetName=NetU2_45 Pin=U2-45
+Added Net: Name=NetU2_45
+Added Pin To Net: NetName=NetU2_49 Pin=U2-49
+Added Net: Name=NetU2_49
+Added Pin To Net: NetName=NetU2_50 Pin=U2-50
+Added Net: Name=NetU2_50
+Added Pin To Net: NetName=NetU2_51 Pin=U2-51
+Added Net: Name=NetU2_51
+Added Pin To Net: NetName=NetU2_52 Pin=U2-52
+Added Net: Name=NetU2_52
+Added Pin To Net: NetName=NetU2_53 Pin=U2-53
+Added Net: Name=NetU2_53
+Added Pin To Net: NetName=NetU2_54 Pin=U2-54
+Added Net: Name=NetU2_54
+Added Pin To Net: NetName=NetU2_55 Pin=U2-55
+Added Net: Name=NetU2_55
+Added Pin To Net: NetName=NetU2_59 Pin=U2-59
+Added Net: Name=NetU2_59
+Added Pin To Net: NetName=NetU2_60 Pin=U2-60
+Added Net: Name=NetU2_60
+Added Pin To Net: NetName=NetU2_61 Pin=U2-61
+Added Net: Name=NetU2_61
+Added Pin To Net: NetName=NetU2_62 Pin=U2-62
+Added Net: Name=NetU2_62
+Added Pin To Net: NetName=NetU2_63 Pin=U2-63
+Added Net: Name=NetU2_63
+Added Pin To Net: NetName=NetU2_64 Pin=U2-64
+Added Net: Name=NetU2_64
+Added Pin To Net: NetName=Reserved Pin=J2-6
+Added Net: Name=Reserved
+Added Class: Name=ICD4_INTERFACE_MODULE
+Added Class: Name=PGA
+Added Room: Name=ICD4_INTERFACE_MODULE
+Added Room: Name=PGA

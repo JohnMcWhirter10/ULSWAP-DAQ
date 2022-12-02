@@ -1,0 +1,34 @@
+Added Component: Designator=U1(LTC_2373_Footprint)
+Added Pin To Net: NetName=ADC_CH2_CH3_P Pin=U1-1
+Added Pin To Net: NetName=ADC_CH2_CH3_N Pin=U1-2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U1-4
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_5 Pin=U1-6
+Added Pin To Net: NetName=ADC_CH4_CH5_P Pin=U1-7
+Added Pin To Net: NetName=ADC_CH4_CH5_N Pin=U1-8
+Added Pin To Net: NetName=ADC_CH6_CH7_P Pin=U1-9
+Added Pin To Net: NetName=ADC_CH6_CH7_N Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetC5_1 Pin=U1-12
+Added Pin To Net: NetName=NetC4_1 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=CNV Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=BUSY Pin=U1-19
+Added Pin To Net: NetName=SDI Pin=U1-20
+Added Pin To Net: NetName=SCK Pin=U1-21
+Added Pin To Net: NetName=SDO Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=+3.3V Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=NetC2_1 Pin=U1-28
+Added Pin To Net: NetName=+5V Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=ADC_CH0_CH1_P Pin=U1-31
+Added Pin To Net: NetName=ADC_CH0_CH1_N Pin=U1-32
+Added Member To Class: ClassName=LTC2373_Schematic Member=Component U1 =value

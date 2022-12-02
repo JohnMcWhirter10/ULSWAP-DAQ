@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=UART_TX Pin=U2-1
+Removed Pin From Net: NetName=NetU1_18 Pin=U2-2
+Removed Pin From Net: NetName=MCLR Pin=U2-7
+Removed Pin From Net: NetName=GND Pin=U2-9
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetU1_19 Pin=U2-11
+Removed Pin From Net: NetName=NetU1_16 Pin=U2-12
+Removed Pin From Net: NetName=PGC Pin=U2-17
+Removed Pin From Net: NetName=PGD Pin=U2-18
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=U2-20
+Removed Pin From Net: NetName=GND Pin=U2-25
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetR1_1 Pin=U2-39
+Removed Pin From Net: NetName=NetC8_1 Pin=U2-40
+Removed Pin From Net: NetName=GND Pin=U2-41
+Removed Pin From Net: NetName=NetU1_24 Pin=U2-49
+Removed Pin From Net: NetName=SCK Pin=U2-50
+Removed Pin From Net: NetName=ADCSDO_PIC32SDI Pin=U2-51
+Removed Pin From Net: NetName=ADCSDI_PIC32SDO Pin=U2-53
+Removed Pin From Net: NetName=NetC6_1 Pin=U2-56
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=U2-65
+Removed Member From Class: ClassName=PIC32_Subsystem Member=U2
+Added Component: Designator=U?(QFN50P900X900X100-65N)
+Added Pin To Net: NetName=UART_TX Pin=U?-1
+Added Pin To Net: NetName=MCLR Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=+3.3V Pin=U?-10
+Added Pin To Net: NetName=NetU1_16 Pin=U?-12
+Added Pin To Net: NetName=PGC Pin=U?-17
+Added Pin To Net: NetName=PGD Pin=U?-18
+Added Pin To Net: NetName=+3.3V Pin=U?-19
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Pin To Net: NetName=+3.3V Pin=U?-26
+Added Pin To Net: NetName=+3.3V Pin=U?-35
+Added Pin To Net: NetName=+3.3V Pin=U?-38
+Added Pin To Net: NetName=NetR1_1 Pin=U?-39
+Added Pin To Net: NetName=NetC8_1 Pin=U?-40
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=NetU1_24 Pin=U?-46
+Added Pin To Net: NetName=ADCSDO_PIC32SDI Pin=U?-47
+Added Pin To Net: NetName=SCK Pin=U?-50
+Added Pin To Net: NetName=ADCSDI_PIC32SDO Pin=U?-52
+Added Pin To Net: NetName=NetU1_19 Pin=U?-54
+Added Pin To Net: NetName=NetU1_18 Pin=U?-55
+Added Pin To Net: NetName=NetC6_1 Pin=U?-56
+Added Pin To Net: NetName=+3.3V Pin=U?-57
+Added Pin To Net: NetName=GND Pin=U?-65
+Added Pin To Net: NetName=NetU4_1 Pin=U?-64
+Added Net: Name=NetU4_1
+Added Pin To Net: NetName=NetU4_2 Pin=U?-63
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU4_3 Pin=U?-62
+Added Net: Name=NetU4_3
+Added Pin To Net: NetName=NetU4_4 Pin=U?-27
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=NetU4_5 Pin=U?-61
+Added Net: Name=NetU4_5
+Added Pin To Net: NetName=NetU4_6 Pin=U?-60
+Added Net: Name=NetU4_6
+Added Net: Name=NetU4_7
+Added Pin To Net: NetName=NetU4_8 Pin=U?-28
+Added Net: Name=NetU4_8
+Added Net: Name=NetU5_1
+Added Pin To Net: NetName=NetU5_2 Pin=U?-59
+Added Net: Name=NetU5_2
+Added Pin To Net: NetName=NetU5_3 Pin=U?-58
+Added Net: Name=NetU5_3
+Added Pin To Net: NetName=NetU5_4 Pin=U?-29
+Added Net: Name=NetU5_4
+Added Net: Name=NetU5_5
+Added Pin To Net: NetName=NetU5_6 Pin=U?-44
+Added Net: Name=NetU5_6
+Added Pin To Net: NetName=NetU5_7 Pin=U?-43
+Added Net: Name=NetU5_7
+Added Pin To Net: NetName=NetU5_8 Pin=U?-30
+Added Net: Name=NetU5_8
+Added Pin To Net: NetName=NetU?_22 Pin=U?-22
+Added Net: Name=NetU?_22
+Added Pin To Net: NetName=NetU?_33 Pin=U?-33
+Added Net: Name=NetU?_33
+Added Pin To Net: NetName=NetU?_34 Pin=U?-34
+Added Net: Name=NetU?_34
+Added Pin To Net: NetName=NetU?_36 Pin=U?-36
+Added Net: Name=NetU?_36
+Added Pin To Net: NetName=NetU?_37 Pin=U?-37
+Added Net: Name=NetU?_37
+Add Class Member: Failed to add class member : Component U4 Fake_PGA
+Add Class Member: Failed to add class member : Component U5 Fake_PGA
+Added Member To Class: ClassName=PIC32_Subsystem Member=Component U? PIC32MX470-F512H-120MR

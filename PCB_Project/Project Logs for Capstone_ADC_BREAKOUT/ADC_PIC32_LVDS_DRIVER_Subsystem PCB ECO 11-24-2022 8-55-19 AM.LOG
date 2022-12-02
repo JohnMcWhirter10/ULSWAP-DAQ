@@ -1,0 +1,53 @@
+Added Component: Designator=U1(LTC_2373_Footprint)
+Added Pin To Net: NetName=ADC_CH2_CH3_P Pin=U1-1
+Added Pin To Net: NetName=ADC_CH2_CH3_N Pin=U1-2
+Added Pin To Net: NetName=MUXOUT_ADCIN+ Pin=U1-3
+Added Pin To Net: NetName=MUXOUT_ADCIN+ Pin=U1-4
+Added Pin To Net: NetName=MUXOUT_ADCIN- Pin=U1-5
+Added Pin To Net: NetName=MUXOUT_ADCIN- Pin=U1-6
+Added Pin To Net: NetName=ADC_CH4_CH5_P Pin=U1-7
+Added Pin To Net: NetName=ADC_CH4_CH5_N Pin=U1-8
+Added Pin To Net: NetName=ADC_CH6_CH7_P Pin=U1-9
+Added Pin To Net: NetName=ADC_CH6_CH7_N Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=REFBUF Pin=U1-12
+Added Pin To Net: NetName=REFIN Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=NetU1_18 Pin=U1-18
+Added Pin To Net: NetName=NetU1_19 Pin=U1-19
+Added Pin To Net: NetName=ADCSDI_PIC32SDO Pin=U1-20
+Added Pin To Net: NetName=SCK Pin=U1-21
+Added Pin To Net: NetName=ADCSDO_PIC32SDI Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=NetU1_24 Pin=U1-24
+Added Pin To Net: NetName=+3.3V Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=VDDLBYP Pin=U1-28
+Added Pin To Net: NetName=+5V Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=ADC_CH0_CH1_P Pin=U1-31
+Added Pin To Net: NetName=ADC_CH0_CH1_N Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Added Member To Class: ClassName=ADC_Subsystem Member=Component U1 LTC2373CUH-16#PBF
+Add Class Member: Failed to add class member : Component U4 Fake_PGA
+Add Class Member: Failed to add class member : Component U5 Fake_PGA

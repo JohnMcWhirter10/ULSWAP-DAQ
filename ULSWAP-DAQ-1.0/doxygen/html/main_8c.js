@@ -1,7 +1,9 @@
 var main_8c =
 [
+    [ "check_TMR2", "main_8c.html#ad3db44b6899267bc36c353ffed73ce40", null ],
     [ "main", "main_8c.html#a840291bc02cba5474a4cb46a9b9566fe", null ],
     [ "config", "main_8c.html#a7947c7e436bdd1bbe498d0ae1eb37490", null ],
+    [ "next", "main_8c.html#a8f761352f840baa958a3b02e5237bdf0", null ],
     [ "pga1A_config", "main_8c.html#a0ae9f401f3f18ae51f0eeace8fa5cfb3", null ],
     [ "pga1A_shdn", "main_8c.html#a598ce32691f068c279feed021866d6dd", null ],
     [ "pga1B_config", "main_8c.html#a7af8fd07d14c66d7f56c8303ba6602b4", null ],

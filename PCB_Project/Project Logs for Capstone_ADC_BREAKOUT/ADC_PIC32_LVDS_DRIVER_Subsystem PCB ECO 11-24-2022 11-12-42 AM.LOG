@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=U2-66
+Removed Pin From Net: NetName=GND Pin=U2-67
+Removed Pin From Net: NetName=GND Pin=U2-68
+Removed Pin From Net: NetName=GND Pin=U2-69
+Removed Pin From Net: NetName=GND Pin=U2-70
+Removed Pin From Net: NetName=GND Pin=U2-71
+Removed Pin From Net: NetName=GND Pin=U2-72
+Removed Pin From Net: NetName=GND Pin=U2-73
+Removed Pin From Net: NetName=GND Pin=U2-74
+Removed Pin From Net: NetName=GND Pin=U2-75
+Removed Pin From Net: NetName=GND Pin=U2-76
+Removed Pin From Net: NetName=GND Pin=U2-77
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Net: Name=NetU2_1
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Net: Name=NetU2_3
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Net: Name=NetU2_4
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=NetU2_6 Pin=U2-6
+Added Net: Name=NetU2_6
+Added Pin To Net: NetName=NetU2_42 Pin=U2-42
+Added Net: Name=NetU2_42
+Added Pin To Net: NetName=NetU2_45 Pin=U2-45
+Added Net: Name=NetU2_45
+Add Class Member: Failed to add class member : Component U4 Fake_PGA
+Add Class Member: Failed to add class member : Component U5 Fake_PGA

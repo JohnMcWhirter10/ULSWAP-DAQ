@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=MCLR Pin=R4-2
+Removed Member From Class: ClassName=PIC32_Subsystem Member=R4
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Change Net Name : Old Net Name=+3.3V New Net Name=AVDD_19
+Add Class Member: Failed to add class member : Component U4 Fake_PGA
+Add Class Member: Failed to add class member : Component U5 Fake_PGA
+Added Room: Name=ADC_Subsystem
+Added Room: Name=ICD4_INTERFACE_MODULE
+Added Room: Name=LVDS_Driver_Subsystem
+Added Room: Name=PGA
+Added Room: Name=PIC32_Subsystem

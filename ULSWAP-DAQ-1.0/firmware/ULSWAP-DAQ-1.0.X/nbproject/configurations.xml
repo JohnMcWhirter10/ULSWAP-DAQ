@@ -357,6 +357,7 @@
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.end" value="0x1d003fff"/>
         <property key="memories.programmemory.start" value="0x1d000000"/>
+        <property key="periphADC1.minTacq" value="132"/>
         <property key="poweroptions.powerenable" value="false"/>
         <property key="programmertogo.imagename" value=""/>
         <property key="programoptions.donoteraseauxmem" value="false"/>

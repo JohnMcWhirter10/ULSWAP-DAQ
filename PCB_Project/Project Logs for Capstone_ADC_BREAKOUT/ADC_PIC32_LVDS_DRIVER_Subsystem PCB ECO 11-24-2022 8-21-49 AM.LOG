@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=SDI Pin=U2-5
+Removed Pin From Net: NetName=SDO Pin=U2-6
+Added Component: Designator=R3(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1 x 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm\/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCLR Pin=R3-1
+Added Pin To Net: NetName=AVDD_19 Pin=R3-2
+Added Pin To Net: NetName=SDO Pin=U2-5
+Added Pin To Net: NetName=SDI Pin=U2-6
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Added Member To Class: ClassName=PIC32_Subsystem Member=Component R3 10k
+Add Class Member: Failed to add class member : Component U4 Fake_PGA
+Add Class Member: Failed to add class member : Component U5 Fake_PGA
+Added Room: Name=ADC_Subsystem
+Added Room: Name=ICD4_INTERFACE_MODULE
+Added Room: Name=LVDS_Driver_Subsystem
+Added Room: Name=PGA
+Added Room: Name=PIC32_Subsystem

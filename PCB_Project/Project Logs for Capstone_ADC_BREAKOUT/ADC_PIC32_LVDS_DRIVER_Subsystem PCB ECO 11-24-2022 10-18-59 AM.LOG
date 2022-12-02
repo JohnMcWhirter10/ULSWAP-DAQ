@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetU1_16 Pin=U2-53
+Removed Pin From Net: NetName=NetU1_19 Pin=U2-54
+Removed Pin From Net: NetName=NetU1_18 Pin=U2-55
+Added Pin To Net: NetName=NetU1_19 Pin=U2-53
+Added Pin To Net: NetName=NetU1_18 Pin=U2-54
+Added Pin To Net: NetName=NetU1_16 Pin=U2-55
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Class Member: Failed to add class member : Component U4 Fake_PGA
+Add Class Member: Failed to add class member : Component U5 Fake_PGA
