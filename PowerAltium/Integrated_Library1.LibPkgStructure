@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=403mainschematic.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=403mainschematic.SchDoc|Designator=LMR51420 3.3V|SchDesignator=LMR51420 3.3V|FileName=LMR514203.3V.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=LMR514203.3V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=403mainschematic.SchDoc|Designator=LMR51420 5V|SchDesignator=LMR51420 5V|FileName=LMR514205V.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LMR514205V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=403mainschematic.SchDoc|Designator=TPS6513x|SchDesignator=TPS6513x|FileName=TPS6513x.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=TPS6513x.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
