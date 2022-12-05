@@ -1,0 +1,75 @@
+Change Component Comment : Designator=PGA1 Old Comment=Comment New Comment=THS7002CPWP
+Change Managed Component Library Link : Designator=PGA1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=6DC9C1B3-D6A8-402E-A352-ACF677E28FBC Old RevisionGUID= New RevisionGUID=686A5A17-A95F-4F98-A7F0-6C91E34B8FAB
+Change component parameters: Designator = "PGA1" ("PGA1"); Footprint = "THS7002CPWP"; UniqueID = "\RJQXHESP\QEEBVNJS" ("\RJQXHESP\QEEBVNJS")
+Change component parameters (AddParameter): Name = "BW @ Acl(MHz)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MO-153"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Common Mode Input High(Min)(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Common Mode Input Low(Min)(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS7002&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SLOS214C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Disable"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain Error (+/-)(Max)(%)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain(V/V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iib(Max)(nA)"; Value = "6000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Bias Current (+/-)(Max)(nA)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Offset (+/-)(Max)(uV)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Offset Drift (+/-)(Max)(uV/Degrees Celsius)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Noise at 1kHz(Typ)(nV/rt(Hz))"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Non-Linearity (+/-)(Max)(%)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "28-Pin Plastic Small Outline, Body 4.4 x 9.7 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "PWP0028E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "4073225-6/I, 05/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "THS7002CPWP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current (+/-)(Typ)(mA)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Settling Time to 0.01%(Typ)(us)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "Variable Gain Amplifier"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vio(Max)(mV)"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vs(Max)(V)"; Value = "32"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vs(Min)(V)"; Value = "9"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A GP4 Pin=J1-1
+Added Pin To Net: NetName=A GP4 Pin=J2-1
+Added Pin To Net: NetName=A GP4 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=PGA1-1
+Added Pin To Net: NetName=GND Pin=PGA1-2
+Added Pin To Net: NetName=NetC1_1 Pin=PGA1-3
+Added Pin To Net: NetName=NetPGA1_4 Pin=PGA1-4
+Added Pin To Net: NetName=Sensor A (-) Pin=PGA1-5
+Added Pin To Net: NetName=Sensor A (+) Pin=PGA1-6
+Added Pin To Net: NetName=VCC- Pin=PGA1-7
+Added Pin To Net: NetName=VCC+ Pin=PGA1-8
+Added Pin To Net: NetName=Sensor B (+) Pin=PGA1-9
+Added Pin To Net: NetName=Sensor B (-) Pin=PGA1-10
+Added Pin To Net: NetName=NetPGA1_11 Pin=PGA1-11
+Added Pin To Net: NetName=NetC2_1 Pin=PGA1-12
+Added Pin To Net: NetName=GND Pin=PGA1-13
+Added Pin To Net: NetName=GND Pin=PGA1-14
+Added Pin To Net: NetName=PGA_B_Out Pin=PGA1-19
+Added Pin To Net: NetName=+5V Pin=PGA1-20
+Added Pin To Net: NetName=VCC+ Pin=PGA1-21
+Added Pin To Net: NetName=VCC- Pin=PGA1-22
+Added Pin To Net: NetName=GND Pin=PGA1-23
+Added Pin To Net: NetName=PGA_A_Out Pin=PGA1-24
+Added Pin To Net: NetName=A GP0 Pin=PGA1-28
+Change Net Name : Old Net Name=B GP0 New Net Name=B GPA
+Add Net: Net with name "A GP1" already exists
+Add Net: Net with name "A GP2" already exists
+Add Net: Net with name "A GP4" already exists
+Added Pin To Net: NetName=B GP0 Pin=AmpB-7
+Added Pin To Net: NetName=B GP0 Pin=J1-14
+Added Pin To Net: NetName=B GP0 Pin=PGA1-15
+Added Net: Name=B GP0
+Add Net: Net with name "B GP1" already exists
+Add Net: Net with name "B GP2" already exists
+Add Net: Net with name "B GP4" already exists
+Added Member To Class: ClassName=PGA1 Member=Component PGA1 THS7002CPWP

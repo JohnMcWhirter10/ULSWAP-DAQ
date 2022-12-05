@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Capstone_Signal_Conditioners\Project Outputs for Free Documents\Pick Place\Pick Place for Capstone_Signal_Conditioning_Subsystem_Test_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/11/22
+Time:       17:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"B1","17.3990mm","35.3470mm","TopLayer","270"
+"J1","41.0000mm","65.7860mm","TopLayer","0"
+"Cp1-","27.9400mm","56.8770mm","TopLayer","90"
+"Cp1+","27.9400mm","59.9630mm","TopLayer","90"
+"Cp3-","36.1950mm","56.8960mm","TopLayer","90"
+"Cp3+","36.1950mm","59.9440mm","TopLayer","90"
+"Cp2-","33.6550mm","58.8010mm","TopLayer","90"
+"Cp4-","41.2750mm","58.8010mm","TopLayer","90"
+"Cp2+","30.8610mm","58.8130mm","TopLayer","90"
+"Cp4+","38.7350mm","58.8130mm","TopLayer","90"
+"C2","33.2740mm","33.7028mm","TopLayer","270"
+"R2","33.6550mm","37.5920mm","TopLayer","180"
+"R1","33.5280mm","43.4340mm","TopLayer","180"
+"C1","33.1470mm","47.3232mm","TopLayer","90"
+"AmpB","57.4750mm","32.4530mm","TopLayer","90"
+"RgB","53.6340mm","34.5440mm","TopLayer","0"
+"R1B","53.5940mm","30.3530mm","TopLayer","0"
+"C1B","57.1500mm","28.3020mm","TopLayer","270"
+"R2B","58.9280mm","27.4480mm","TopLayer","90"
+"RfB","57.5310mm","38.1000mm","TopLayer","0"
+"RoB+","61.3410mm","34.5440mm","TopLayer","0"
+"RoB-","61.3410mm","30.3530mm","TopLayer","0"
+"C2B","64.3890mm","37.2110mm","TopLayer","90"
+"C3B","64.3890mm","32.3850mm","TopLayer","270"
+"C4B","64.3890mm","27.5590mm","TopLayer","270"
+"J2","40.8940mm","16.6370mm","TopLayer","0"
+"C4A","64.3890mm","45.3510mm","TopLayer","270"
+"C3A","64.3890mm","50.0380mm","TopLayer","90"
+"C2A","64.3890mm","54.5980mm","TopLayer","90"
+"RoA-","61.3080mm","48.0060mm","TopLayer","0"
+"RoA+","61.2470mm","52.1970mm","TopLayer","0"
+"RfA","57.6580mm","55.1180mm","TopLayer","0"
+"R2A","59.0550mm","45.2280mm","TopLayer","90"
+"C1A","57.2770mm","46.2280mm","TopLayer","270"
+"R1A","53.5940mm","48.0060mm","TopLayer","0"
+"RgA","53.5810mm","52.1970mm","TopLayer","0"
+"AmpA","57.6020mm","50.1060mm","TopLayer","90"
+"PGA1","39.9530mm","40.5130mm","TopLayer","0"

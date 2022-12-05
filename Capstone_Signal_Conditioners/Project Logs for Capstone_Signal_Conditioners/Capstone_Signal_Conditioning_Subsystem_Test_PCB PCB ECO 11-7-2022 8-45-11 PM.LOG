@@ -1,0 +1,217 @@
+Change Component Footprint: Designator=B1 Old Footprint=FP-4-644456-0-MFG New Footprint=HDR1X8
+Change Component Footprint: Designator=Cp2+ Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-C2012-060-0_2-IPC_A
+Change Component Footprint: Designator=Cp2- Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-C2012-060-0_2-IPC_A
+Change Component Footprint: Designator=Cp4+ Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-C2012-060-0_2-IPC_A
+Change Component Footprint: Designator=Cp4- Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-C2012-060-0_2-IPC_A
+Change Component Footprint: Designator=R2A Old Footprint=FP-CRCW0402-e3-MFG New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R2B Old Footprint=FP-CRCW0402-e3-MFG New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=RfA Old Footprint=FP-CRCW0402-e3-MFG New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=RfB Old Footprint=FP-CRCW0402-e3-MFG New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=RoA+ Old Footprint=FP-CRCW0603-e3-IPC_B New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=RoA- Old Footprint=FP-CRCW0603-e3-IPC_B New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=RoB+ Old Footprint=FP-CRCW0603-e3-IPC_B New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=RoB- Old Footprint=FP-CRCW0603-e3-IPC_B New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-AC0402-IPC_C
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-AC0402-IPC_C
+Change Footprint: Footprint Not Found PWP0028E_N
+Change Component Footprint: Designator=R1A Old Footprint=RESC1608X55X30NL15T15 New Footprint=RESC2013X70X40LL20T20
+Change Component Footprint: Designator=R1B Old Footprint=RESC1608X55X30NL15T15 New Footprint=RESC2013X70X40LL20T20
+Change Component Footprint: Designator=RgA Old Footprint=RESC1608X55X30NL15T15 New Footprint=RESC2013X70X40LL20T20
+Change Component Footprint: Designator=RgB Old Footprint=RESC1608X55X30NL15T15 New Footprint=RESC2013X70X40LL20T20
+Change Component Comment : Designator=R1 Old Comment=Comment New Comment=AC0402JR-0750RL
+Change Component Comment : Designator=R2 Old Comment=Comment New Comment=AC0402JR-0750RL
+Change Component Comment : Designator=Cp2+ Old Comment=Comment New Comment=C2012JB1A685K060AC
+Change Component Comment : Designator=Cp2- Old Comment=Comment New Comment=C2012JB1A685K060AC
+Change Component Comment : Designator=Cp4+ Old Comment=Comment New Comment=C2012JB1A685K060AC
+Change Component Comment : Designator=Cp4- Old Comment=Comment New Comment=C2012JB1A685K060AC
+Change Component Comment : Designator=C1A Old Comment=Comment New Comment=CBR04C108B5GAC
+Change Component Comment : Designator=C1B Old Comment=Comment New Comment=CBR04C108B5GAC
+Change Component Comment : Designator=C2A Old Comment=Comment New Comment=CC0603KRX7R9BB392
+Change Component Comment : Designator=C2B Old Comment=Comment New Comment=CC0603KRX7R9BB392
+Change Component Comment : Designator=C3A Old Comment=Comment New Comment=CC0603KRX7R9BB392
+Change Component Comment : Designator=C3B Old Comment=Comment New Comment=CC0603KRX7R9BB392
+Change Component Comment : Designator=C4A Old Comment=Comment New Comment=CC0603KRX7R9BB392
+Change Component Comment : Designator=C4B Old Comment=Comment New Comment=CC0603KRX7R9BB392
+Change Component Comment : Designator=R1A Old Comment=Comment New Comment=ERJ-6ENF1241V
+Change Component Comment : Designator=R1B Old Comment=Comment New Comment=ERJ-6ENF1241V
+Change Component Comment : Designator=RgA Old Comment=Comment New Comment=ERJ-6ENF1241V
+Change Component Comment : Designator=RgB Old Comment=Comment New Comment=ERJ-6ENF1241V
+Change Component Comment : Designator=Cp1+ Old Comment=Comment New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=Cp1- Old Comment=Comment New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=Cp3+ Old Comment=Comment New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=Cp3- Old Comment=Comment New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=C1 Old Comment=Comment New Comment=GRM3195C1H163JA01D
+Change Component Comment : Designator=C2 Old Comment=Comment New Comment=GRM3195C1H163JA01D
+Change Component Comment : Designator=B1 Old Comment=Comment New Comment=Header 1
+Change Component Comment : Designator=AmpA Old Comment=Comment New Comment=LTC6362HMS8#PBF
+Change Component Comment : Designator=AmpB Old Comment=Comment New Comment=LTC6362HMS8#PBF
+Change Component Comment : Designator=J1 Old Comment=Comment New Comment=NPTC102KFMS-RC
+Change Component Comment : Designator=J2 Old Comment=Comment New Comment=NPTC102KFMS-RC
+Change Component Comment : Designator=J3 Old Comment=Comment New Comment=NPTC102KFMS-RC
+Change Component Comment : Designator=J4 Old Comment=Comment New Comment=NPTC102KFMS-RC
+Change Component Comment : Designator=RoA+ Old Comment=Comment New Comment=RC0402FR-0735R7L
+Change Component Comment : Designator=RoA- Old Comment=Comment New Comment=RC0402FR-0735R7L
+Change Component Comment : Designator=RoB+ Old Comment=Comment New Comment=RC0402FR-0735R7L
+Change Component Comment : Designator=RoB- Old Comment=Comment New Comment=RC0402FR-0735R7L
+Change Component Comment : Designator=R2A Old Comment=Comment New Comment=RC0805FR-071KL
+Change Component Comment : Designator=R2B Old Comment=Comment New Comment=RC0805FR-071KL
+Change Component Comment : Designator=RfA Old Comment=Comment New Comment=RC0805FR-071KL
+Change Component Comment : Designator=RfB Old Comment=Comment New Comment=RC0805FR-071KL
+Change Component Comment : Designator=PGA1 Old Comment=Comment New Comment=THS7002CPWP
+Added Pin To Net: NetName=+5V Pin=AmpA-3
+Added Pin To Net: NetName=+5V Pin=AmpB-3
+Added Pin To Net: NetName=+5V Pin=PGA1-20
+Added Net: Name=+5V
+Added Pin To Net: NetName=ADC_CH_A+ Pin=C2A-1
+Added Pin To Net: NetName=ADC_CH_A+ Pin=C3A-2
+Added Pin To Net: NetName=ADC_CH_A+ Pin=RoA+-2
+Added Net: Name=ADC_CH_A+
+Added Pin To Net: NetName=ADC_CH_A- Pin=C3A-1
+Added Pin To Net: NetName=ADC_CH_A- Pin=C4A-1
+Added Pin To Net: NetName=ADC_CH_A- Pin=RoA--2
+Added Net: Name=ADC_CH_A-
+Added Pin To Net: NetName=ADC_CH_B+ Pin=C2B-1
+Added Pin To Net: NetName=ADC_CH_B+ Pin=C3B-1
+Added Pin To Net: NetName=ADC_CH_B+ Pin=RoB+-2
+Added Net: Name=ADC_CH_B+
+Added Pin To Net: NetName=ADC_CH_B- Pin=C3B-2
+Added Pin To Net: NetName=ADC_CH_B- Pin=C4B-1
+Added Pin To Net: NetName=ADC_CH_B- Pin=RoB--2
+Added Net: Name=ADC_CH_B-
+Added Pin To Net: NetName=A GP0 Pin=J2-3
+Added Pin To Net: NetName=A GP0 Pin=PGA1-28
+Added Net: Name=A GP0
+Added Pin To Net: NetName=A GP1 Pin=J2-5
+Added Pin To Net: NetName=A GP1 Pin=PGA1-27
+Added Net: Name=A GP1
+Added Pin To Net: NetName=A GP2 Pin=J2-7
+Added Pin To Net: NetName=A GP2 Pin=PGA1-26
+Added Net: Name=A GP2
+Added Pin To Net: NetName=A GP4 Pin=AmpA-7
+Added Pin To Net: NetName=A GP4 Pin=J2-1
+Added Pin To Net: NetName=A GP4 Pin=PGA1-25
+Added Net: Name=A GP4
+Added Pin To Net: NetName=B GP0 Pin=J2-15
+Added Pin To Net: NetName=B GP0 Pin=PGA1-15
+Added Net: Name=B GP0
+Added Pin To Net: NetName=B GP1 Pin=J2-17
+Added Pin To Net: NetName=B GP1 Pin=PGA1-16
+Added Net: Name=B GP1
+Added Pin To Net: NetName=B GP2 Pin=J2-19
+Added Pin To Net: NetName=B GP2 Pin=PGA1-17
+Added Net: Name=B GP2
+Added Pin To Net: NetName=B GP4 Pin=AmpB-7
+Added Pin To Net: NetName=B GP4 Pin=J2-13
+Added Pin To Net: NetName=B GP4 Pin=PGA1-18
+Added Net: Name=B GP4
+Added Pin To Net: NetName=GND Pin=AmpA-6
+Added Pin To Net: NetName=GND Pin=AmpB-6
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1A-2
+Added Pin To Net: NetName=GND Pin=C1B-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C2A-2
+Added Pin To Net: NetName=GND Pin=C2B-2
+Added Pin To Net: NetName=GND Pin=C4A-2
+Added Pin To Net: NetName=GND Pin=C4B-2
+Added Pin To Net: NetName=GND Pin=Cp1+-2
+Added Pin To Net: NetName=GND Pin=Cp1--2
+Added Pin To Net: NetName=GND Pin=Cp2+-2
+Added Pin To Net: NetName=GND Pin=Cp2--2
+Added Pin To Net: NetName=GND Pin=Cp3+-2
+Added Pin To Net: NetName=GND Pin=Cp3--2
+Added Pin To Net: NetName=GND Pin=Cp4+-2
+Added Pin To Net: NetName=GND Pin=Cp4--2
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Pin To Net: NetName=GND Pin=PGA1-1
+Added Pin To Net: NetName=GND Pin=PGA1-2
+Added Pin To Net: NetName=GND Pin=PGA1-13
+Added Pin To Net: NetName=GND Pin=PGA1-14
+Added Pin To Net: NetName=GND Pin=PGA1-23
+Added Pin To Net: NetName=GND Pin=RgA-1
+Added Pin To Net: NetName=GND Pin=RgB-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAmpA_1 Pin=AmpA-1
+Added Pin To Net: NetName=NetAmpA_1 Pin=R1A-2
+Added Pin To Net: NetName=NetAmpA_1 Pin=R2A-1
+Added Net: Name=NetAmpA_1
+Added Pin To Net: NetName=NetAmpA_2 Pin=AmpA-2
+Added Pin To Net: NetName=NetAmpA_2 Pin=C1A-1
+Added Net: Name=NetAmpA_2
+Added Pin To Net: NetName=NetAmpA_4 Pin=AmpA-4
+Added Pin To Net: NetName=NetAmpA_4 Pin=R2A-2
+Added Pin To Net: NetName=NetAmpA_4 Pin=RoA--1
+Added Net: Name=NetAmpA_4
+Added Pin To Net: NetName=NetAmpA_5 Pin=AmpA-5
+Added Pin To Net: NetName=NetAmpA_5 Pin=RfA-2
+Added Pin To Net: NetName=NetAmpA_5 Pin=RoA+-1
+Added Net: Name=NetAmpA_5
+Added Pin To Net: NetName=NetAmpA_8 Pin=AmpA-8
+Added Pin To Net: NetName=NetAmpA_8 Pin=RfA-1
+Added Pin To Net: NetName=NetAmpA_8 Pin=RgA-2
+Added Net: Name=NetAmpA_8
+Added Pin To Net: NetName=NetAmpB_1 Pin=AmpB-1
+Added Pin To Net: NetName=NetAmpB_1 Pin=R1B-2
+Added Pin To Net: NetName=NetAmpB_1 Pin=R2B-1
+Added Net: Name=NetAmpB_1
+Added Pin To Net: NetName=NetAmpB_2 Pin=AmpB-2
+Added Pin To Net: NetName=NetAmpB_2 Pin=C1B-1
+Added Net: Name=NetAmpB_2
+Added Pin To Net: NetName=NetAmpB_4 Pin=AmpB-4
+Added Pin To Net: NetName=NetAmpB_4 Pin=R2B-2
+Added Pin To Net: NetName=NetAmpB_4 Pin=RoB--1
+Added Net: Name=NetAmpB_4
+Added Pin To Net: NetName=NetAmpB_5 Pin=AmpB-5
+Added Pin To Net: NetName=NetAmpB_5 Pin=RfB-2
+Added Pin To Net: NetName=NetAmpB_5 Pin=RoB+-1
+Added Net: Name=NetAmpB_5
+Added Pin To Net: NetName=NetAmpB_8 Pin=AmpB-8
+Added Pin To Net: NetName=NetAmpB_8 Pin=RfB-1
+Added Pin To Net: NetName=NetAmpB_8 Pin=RgB-2
+Added Net: Name=NetAmpB_8
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=PGA1-3
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=PGA1-12
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetPGA1_4 Pin=PGA1-4
+Added Pin To Net: NetName=NetPGA1_4 Pin=R1-1
+Added Net: Name=NetPGA1_4
+Added Pin To Net: NetName=NetPGA1_11 Pin=PGA1-11
+Added Pin To Net: NetName=NetPGA1_11 Pin=R2-1
+Added Net: Name=NetPGA1_11
+Added Pin To Net: NetName=PGA_A_Out Pin=PGA1-24
+Added Pin To Net: NetName=PGA_A_Out Pin=R1A-1
+Added Net: Name=PGA_A_Out
+Added Pin To Net: NetName=PGA_B_Out Pin=PGA1-19
+Added Pin To Net: NetName=PGA_B_Out Pin=R1B-1
+Added Net: Name=PGA_B_Out
+Added Pin To Net: NetName=Sensor A (+) Pin=PGA1-6
+Added Net: Name=Sensor A (+)
+Added Pin To Net: NetName=Sensor A (-) Pin=PGA1-5
+Added Net: Name=Sensor A (-)
+Added Pin To Net: NetName=Sensor B (+) Pin=PGA1-9
+Added Net: Name=Sensor B (+)
+Added Pin To Net: NetName=Sensor B (-) Pin=PGA1-10
+Added Net: Name=Sensor B (-)
+Added Pin To Net: NetName=VCC+ Pin=Cp1+-1
+Added Pin To Net: NetName=VCC+ Pin=Cp2+-1
+Added Pin To Net: NetName=VCC+ Pin=Cp3+-1
+Added Pin To Net: NetName=VCC+ Pin=Cp4+-1
+Added Pin To Net: NetName=VCC+ Pin=PGA1-8
+Added Pin To Net: NetName=VCC+ Pin=PGA1-21
+Added Net: Name=VCC+
+Added Pin To Net: NetName=VCC- Pin=Cp1--1
+Added Pin To Net: NetName=VCC- Pin=Cp2--1
+Added Pin To Net: NetName=VCC- Pin=Cp3--1
+Added Pin To Net: NetName=VCC- Pin=Cp4--1
+Added Pin To Net: NetName=VCC- Pin=PGA1-7
+Added Pin To Net: NetName=VCC- Pin=PGA1-22
+Added Net: Name=VCC-
+Added Room: Name=Capstone_Signal_Conditioners_Subsystem_Test_Schematic
+Added Room: Name=Diff_Amp
+Added Room: Name=PGA1

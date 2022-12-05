@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ADC_CH_A+ Pin=J4-1
+Added Pin To Net: NetName=ADC_CH_A- Pin=J4-3
+Added Pin To Net: NetName=ADC_CH_B+ Pin=J4-5
+Added Pin To Net: NetName=ADC_CH_B- Pin=J4-7

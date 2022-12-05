@@ -1,0 +1,11 @@
+Move Component(s) Origin to Grid
+Filename     : C:\Users\Public\Documents\Altium\Capstone_Signal_Conditioners\Capstone_Signal_Conditioning_Subsystem_Test_PCB.PcbDoc
+Date         : 11/2/2022
+Time         : 10:20:12 AM
+Time Elapsed : 00:00:00
+
+
+    SOIC Component Designator6-Comment (40.64mm,61.849mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SOIC Component Designator5-Comment (40.95mm,68.893mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component Designator2-Comment (25.656mm,65.752mm) on Top Layer - Component pads are OFF grid. No action taken.
+count : 3

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=B1 Old Footprint=HDR1X8 New Footprint=FP-4-644456-0-MFG
+Change Component Footprint: Designator=PGA1 Old Footprint=PWP0028E_N New Footprint=PWP0028E_M
+Change Component Comment: Designator=B1 Old Comment=Header 1 New Comment=Comment

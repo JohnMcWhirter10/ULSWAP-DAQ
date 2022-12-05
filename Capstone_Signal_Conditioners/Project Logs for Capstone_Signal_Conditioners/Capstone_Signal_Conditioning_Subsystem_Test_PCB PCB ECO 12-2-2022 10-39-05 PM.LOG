@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetAmpC_8 Pin=RfC-1
+Removed Pin From Net: NetName=NetAmpC_5 Pin=RfC-2
+Removed Pin From Net: NetName=NetAmpB_5 Pin=RoB+-1
+Removed Pin From Net: NetName=ADC_CH_B+ Pin=RoB+-2
+Change Footprint: Footprint Not Found PWP0028E_M
+Add Component: Footprint Not Found PWP0028E_M
+Added Pin To Net: NetName=NetAmpD_1 Pin=AmpD-1
+Added Pin To Net: NetName=NetAmpD_2 Pin=AmpD-2
+Added Pin To Net: NetName=+5V Pin=AmpD-3
+Added Pin To Net: NetName=NetAmpD_4 Pin=AmpD-4
+Added Pin To Net: NetName=NetAmpD_5 Pin=AmpD-5
+Added Pin To Net: NetName=GND Pin=AmpD-6
+Added Pin To Net: NetName=SHDN-D Pin=AmpD-7
+Added Pin To Net: NetName=NetAmpD_8 Pin=AmpD-8
+Add Pin To Net: Unknown Pin: Pin PGA2-1
+Add Pin To Net: Unknown Pin: Pin PGA2-2
+Add Pin To Net: Unknown Pin: Pin PGA2-3
+Add Pin To Net: Unknown Pin: Pin PGA2-4
+Add Pin To Net: Unknown Pin: Pin PGA2-5
+Add Pin To Net: Unknown Pin: Pin PGA2-6
+Add Pin To Net: Unknown Pin: Pin PGA2-7
+Add Pin To Net: Unknown Pin: Pin PGA2-8
+Add Pin To Net: Unknown Pin: Pin PGA2-9
+Add Pin To Net: Unknown Pin: Pin PGA2-10
+Add Pin To Net: Unknown Pin: Pin PGA2-11
+Add Pin To Net: Unknown Pin: Pin PGA2-12
+Add Pin To Net: Unknown Pin: Pin PGA2-13
+Add Pin To Net: Unknown Pin: Pin PGA2-14
+Add Pin To Net: Unknown Pin: Pin PGA2-15
+Add Pin To Net: Unknown Pin: Pin PGA2-16
+Add Pin To Net: Unknown Pin: Pin PGA2-17
+Add Pin To Net: Unknown Pin: Pin PGA2-18
+Add Pin To Net: Unknown Pin: Pin PGA2-19
+Add Pin To Net: Unknown Pin: Pin PGA2-20
+Add Pin To Net: Unknown Pin: Pin PGA2-21
+Add Pin To Net: Unknown Pin: Pin PGA2-22
+Add Pin To Net: Unknown Pin: Pin PGA2-23
+Add Pin To Net: Unknown Pin: Pin PGA2-24
+Add Pin To Net: Unknown Pin: Pin PGA2-25
+Add Pin To Net: Unknown Pin: Pin PGA2-26
+Add Pin To Net: Unknown Pin: Pin PGA2-27
+Add Pin To Net: Unknown Pin: Pin PGA2-28
+Add Net: Net with name "ADC_CH_A+" already exists
+Add Net: Net with name "ADC_CH_A-" already exists
+Add Class Member: Failed to add class member : Component PGA2 THS7002CPWP
+Added Member To Class: ClassName=Diff_Amp_2 Member=Component RfC RC0805FR-071KL
+Added Member To Class: ClassName=Diff_Amp_2 Member=Component RgC ERJ-6ENF1241V

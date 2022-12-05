@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ADC_CH_A- Pin=J4-3
+Removed Pin From Net: NetName=ADC_CH_B+ Pin=J4-5
+Removed Pin From Net: NetName=ADC_CH_B- Pin=J4-7
+Change Comment: Unknown Component : J4
+Change Managed Component Library Link: Component "J4" not found
+Change component parameters: Component "J4" not found
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8
+Add Class Member: Failed to add class member : Component J4 Component_1

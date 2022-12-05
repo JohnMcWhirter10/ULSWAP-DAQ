@@ -1,0 +1,37 @@
+Change Footprint: Footprint Not Found PWP0028E_M
+Change Component Comment : Designator=PGA1 Old Comment=Comment New Comment=THS7002CPWP
+Added Pin To Net: NetName=A GP4 Pin=J1-1
+Added Pin To Net: NetName=A GP4 Pin=J2-1
+Added Pin To Net: NetName=A GP4 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=PGA1-1
+Added Pin To Net: NetName=GND Pin=PGA1-2
+Added Pin To Net: NetName=NetC1_1 Pin=PGA1-3
+Added Pin To Net: NetName=NetPGA1_4 Pin=PGA1-4
+Added Pin To Net: NetName=Sensor A (-) Pin=PGA1-5
+Added Pin To Net: NetName=Sensor A (+) Pin=PGA1-6
+Added Pin To Net: NetName=VCC- Pin=PGA1-7
+Added Pin To Net: NetName=VCC+ Pin=PGA1-8
+Added Pin To Net: NetName=Sensor B (+) Pin=PGA1-9
+Added Pin To Net: NetName=Sensor B (-) Pin=PGA1-10
+Added Pin To Net: NetName=NetPGA1_11 Pin=PGA1-11
+Added Pin To Net: NetName=NetC2_1 Pin=PGA1-12
+Added Pin To Net: NetName=GND Pin=PGA1-13
+Added Pin To Net: NetName=GND Pin=PGA1-14
+Added Pin To Net: NetName=PGA_B_Out Pin=PGA1-19
+Added Pin To Net: NetName=+5V Pin=PGA1-20
+Added Pin To Net: NetName=VCC+ Pin=PGA1-21
+Added Pin To Net: NetName=VCC- Pin=PGA1-22
+Added Pin To Net: NetName=GND Pin=PGA1-23
+Added Pin To Net: NetName=PGA_A_Out Pin=PGA1-24
+Added Pin To Net: NetName=A GP0 Pin=PGA1-28
+Change Net Name : Old Net Name=B GP0 New Net Name=B GPA
+Add Net: Net with name "A GP1" already exists
+Add Net: Net with name "A GP2" already exists
+Add Net: Net with name "A GP4" already exists
+Added Pin To Net: NetName=B GP0 Pin=AmpB-7
+Added Pin To Net: NetName=B GP0 Pin=J1-14
+Added Pin To Net: NetName=B GP0 Pin=PGA1-15
+Added Net: Name=B GP0
+Add Net: Net with name "B GP1" already exists
+Add Net: Net with name "B GP2" already exists
+Add Net: Net with name "B GP4" already exists
