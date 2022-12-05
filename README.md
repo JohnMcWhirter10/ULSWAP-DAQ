@@ -11,8 +11,8 @@ University and Sandia National Laboratories.
 ## Authors
 
 - John McWhirter
-- Robert Brown
 - Andrew Bainbridge
+- Robert Brown
 
 ## Table of Contents
 

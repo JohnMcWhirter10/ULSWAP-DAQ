@@ -1,0 +1,32 @@
+Change Footprint: Footprint Not Found PWP0028E_M
+Add Component: Footprint Not Found PWP0028E_M
+Add Pin To Net: Unknown Pin: Pin PGA2-1
+Add Pin To Net: Unknown Pin: Pin PGA2-2
+Add Pin To Net: Unknown Pin: Pin PGA2-3
+Add Pin To Net: Unknown Pin: Pin PGA2-4
+Add Pin To Net: Unknown Pin: Pin PGA2-5
+Add Pin To Net: Unknown Pin: Pin PGA2-6
+Add Pin To Net: Unknown Pin: Pin PGA2-7
+Add Pin To Net: Unknown Pin: Pin PGA2-8
+Add Pin To Net: Unknown Pin: Pin PGA2-9
+Add Pin To Net: Unknown Pin: Pin PGA2-10
+Add Pin To Net: Unknown Pin: Pin PGA2-11
+Add Pin To Net: Unknown Pin: Pin PGA2-12
+Add Pin To Net: Unknown Pin: Pin PGA2-13
+Add Pin To Net: Unknown Pin: Pin PGA2-14
+Add Pin To Net: Unknown Pin: Pin PGA2-15
+Add Pin To Net: Unknown Pin: Pin PGA2-16
+Add Pin To Net: Unknown Pin: Pin PGA2-17
+Add Pin To Net: Unknown Pin: Pin PGA2-18
+Add Pin To Net: Unknown Pin: Pin PGA2-19
+Add Pin To Net: Unknown Pin: Pin PGA2-20
+Add Pin To Net: Unknown Pin: Pin PGA2-21
+Add Pin To Net: Unknown Pin: Pin PGA2-22
+Add Pin To Net: Unknown Pin: Pin PGA2-23
+Add Pin To Net: Unknown Pin: Pin PGA2-24
+Add Pin To Net: Unknown Pin: Pin PGA2-25
+Add Pin To Net: Unknown Pin: Pin PGA2-26
+Add Pin To Net: Unknown Pin: Pin PGA2-27
+Add Pin To Net: Unknown Pin: Pin PGA2-28
+Added Member To Class: ClassName=Diff_Amp_2 Member=Component AmpC LTC6362HMS8#PBF
+Add Class Member: Failed to add class member : Component PGA2 THS7002CPWP

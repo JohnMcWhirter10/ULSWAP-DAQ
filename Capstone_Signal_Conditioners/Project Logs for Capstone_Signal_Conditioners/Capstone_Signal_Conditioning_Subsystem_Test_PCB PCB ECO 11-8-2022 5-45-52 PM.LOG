@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC- Pin=J1-3
+Change Comment: Unknown Component : J3
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Class Member: Failed to add class member : Component J3 68402-608LF

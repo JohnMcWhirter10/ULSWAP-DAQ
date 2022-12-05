@@ -1,0 +1,14 @@
+[DesignatorManager]
+LogicalDesignator0=
+LogicalPartID0=1
+DocumentName0=THS7002CPWP_Schematic.SchDoc
+ChannelName0=PGA1
+UniqueID0=\RJQXHESP\BQHMEUZD
+PhysicalDesignator0=C1_PGA1
+PhysicalDesignatorLocked0=1
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+

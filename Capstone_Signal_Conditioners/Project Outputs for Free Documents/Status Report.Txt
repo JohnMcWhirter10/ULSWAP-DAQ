@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [Capstone_Signal_Conditioning_Subsystem_Test_PCB.PcbDoc]
+   Generated File[Bill of Materials-Capstone_Signal_Conditioning_Subsystem_Test_PCB.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:54:32 PM On 11/8/2022

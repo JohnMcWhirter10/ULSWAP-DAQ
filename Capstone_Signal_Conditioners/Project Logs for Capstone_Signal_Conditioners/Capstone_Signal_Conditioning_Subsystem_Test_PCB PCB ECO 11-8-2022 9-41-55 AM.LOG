@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=A GP4 Pin=AmpA-7
+Removed Pin From Net: NetName=B GP4 Pin=AmpB-7
+Added Pin To Net: NetName=A GP0 Pin=AmpA-7
+Added Pin To Net: NetName=B GP0 Pin=AmpB-7
